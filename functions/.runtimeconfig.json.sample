@@ -1,0 +1,54 @@
+{
+    "envvars": {
+        "zendesk": {
+            "email": "",
+            "remoteuri": "",
+            "url": "",
+            "username": "",
+            "token": ""
+        },
+        "google": {
+            "drive": {
+                "client_email": "",
+                "private_key_id": "",
+                "client_id": "",
+                "private_key": ""
+            }
+        },
+        "zohobooks": {
+            "clientid": "",
+            "live_org": "",
+            "test_org": "",
+            "refresh_token": "",
+            "clientsecret": ""
+        },
+        "zohosubs": {
+            "test_org": "",
+            "clientsecret": "",
+            "clientid": "",
+            "refresh_token": "",
+            "live_org": ""
+        },
+        "payliance": {
+            "auth": {
+                "username": "",
+                "secretaccesskey": ""
+            }
+        },
+        "slack": {
+            "token": "",
+            "signing_secret": ""
+        },
+        "mySecret": {
+            "dsk": ""
+        },
+        "ovrc": {
+            "clientid": "",
+            "apikey": "",
+            "clientsecret": ""
+        },
+        "sendgrid": {
+            "apikey": ""
+        }
+    }
+}
